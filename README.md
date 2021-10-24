@@ -1,1 +1,3 @@
-# binary-calculator-web
+# Binary Calculator
+## developed with vanilla JS
+[The calculator](http://janax-artwork.ir/)
